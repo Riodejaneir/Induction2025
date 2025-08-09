@@ -26,7 +26,21 @@ _•Finally, <ins>Shri Ashok Singla</ins>, the Financial Advisor, talked to us a
 
 **_ It was a perfect start to our journey in Computer Science._**
 
+# Day2
 
+## Proficiency Test(9:30am-12:00am)
 
+_Both test conducted very brilliantly by the senior year students. English test was of moderate level. Maths test was quite tricky for me but I did the questions which I knew._
 
+**Break (12:00am-1:10pm)**
 
+_In the break, I ate my lunch and wandered around the college to see the sophisticated infrastructure of college and for some sightseeing._
+
+**1:10pm-1:45pm**
+
+_It was the time of the beginning of the event. A senior Student sang two song and it was marvellous._
+
+### Satya Scholarship Program (1:45pm-2:40pm)
+
+_A special guest <ins>Mr. Manish</ins> tell us the application process of satya schlorship program
+. He told us that the schlorship is for students who did their 12th from Ludhiana district._
