@@ -68,7 +68,7 @@ _The main part of the day was the speech by the **Chief Guest**, <ins>**Sardar G
 
 _The day started with a session by <ins>**Dr. Jaswinder Singh</ins>**. He has got the <ins>**Siksharatan Award</ins>**. He showed us some experiments right there and taught us new ways to study. His way of talking was fun and we all took part. It made learning happy and I will not forget it soon._
 
-_After that, <ins>**Dr. Priyadarshini</ins>** gave the next session. She knows a lot about <ins>**Universal Human Values</ins>**. She talked about why good rules and values are important in engineering, school, and work. She helped us know that we need to care for others, be responsible, and be honest to have a good job and life._
+_After that, <ins>**Dr. Priyadarshin Mami</ins>** gave the next session. She knows a lot about <ins>**Universal Human Values</ins>**. She talked about why good rules and values are important in engineering, school, and work. She helped us know that we need to care for others, be responsible, and be honest to have a good job and life._
 
 _It was a nice day. I learned a lot and feel better about starting college._
 
@@ -76,11 +76,11 @@ _It was a nice day. I learned a lot and feel better about starting college._
 
 **•9:30am - 10:30am**
 
-_I have my first class at GNDEC in TCC seminar hall. The lecture was of chemistry.<ins>**Professor Rajvir Kaur</ins>** told us the syllabus of the subject. She empahises that we should focus on the practical application.It was a fun session._
+_I have my first class at GNDEC in TCC seminar hall. The lecture was of chemistry.<ins>**Professor Rajvir Kaur Mam</ins>** told us the syllabus of the subject. She empahises that we should focus on the practical application.It was a fun session._
 
 **•10:30am - 11:30am**
 
-_My second lecture was of BEEE subject. <ins>**Professor Harminder Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
+_My second lecture was of problem solving with C++ language. Third year senior student <ins>**Taranpreet mam</ins>** and <ins>**Sharanjeet sir</ins>** introduced us to the basics of C++ language. They taught us using how to start the program of C++ , what is a pseudo code , different types of data representation in the C++ language._
 
 ## Break
 
@@ -100,5 +100,23 @@ _We again get a wonderful chance of hearing from <ins>**Dr. Priyadarshini</ins>*
 
 _Finally, we get to know about the different clubs present in the campus. Causmic club conduct various events throughout the year in the campus. If you are enthusiastic about any club, you can fill the form of club and join it._
 
-#Day 5
+# Day 5
+
+## English Lecture
+
+**•9:30am - 10:30am**
+
+_The day started with the hustle and bustle of campus. As usual, the english teacher <ins>**Professor Manjot Kaur Mam</ins>** introduced us the syllabus and marking scheme of the subject. I wrote down every important point. Then she took introduction of the students randomly. At the finish of the lecture she asked us that if anyone voluntarily want to give their introduction then they can. My friend and mine give us our introduction. She is a very sweet teacher._
+
+### Maths Lecture
+
+**10:30am - 11:30am**
+
+_The second lecture was of maths.<ins>**Professor Rajbir Kaur Mam</ins>** took us a test of mix of topics matrices, differential equation, integration etc. I answered most of the questions aksed by the mam. She told us the difference between a differentiable and derivative. When there is a small change in x with respect to a small change in y it is called derivative which is nothing but dy/dx but when we only only study about the small change in x irrespective of its dependency it is called differentiable like dx._
+
+#### BEEE Lecture
+
+**•11:30pm - 12:30pm**
+
+_My second lecture was of BEEE subject. <ins>**Professor Harminder Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
 
