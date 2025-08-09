@@ -132,7 +132,7 @@ _THIRD year senior student revise us the basics of C++ language. The funny thing
 
 _Sir told us that he did his Btech and Mtech in computer science and engineering from GNDEC. He loves to do machine learning. He oftenly used chatgpt. He asked us why we took ca branch. He explained us what is programming, what is logic in computer system etc. He told us that we should dress professinally because now we take admission in a professional course._
 
-**•11:30am - 12:30am**
+**•11:30am - 12:30pm**
 
 _In the break I ate lunch. I tried to sumit the form in order to get bonafide and fees structure for satya schlorship program but the sir who sat in applied science department told me that you have to submit the photocopy of adhaar card and fees slip with the form._
 
@@ -140,5 +140,13 @@ _In the break I ate lunch. I tried to sumit the form in order to get bonafide an
 #### CML lecture by Dr. Lakhvir Singh Khana
 
 **•12:30pm - 3:30pm**
+
+_First sir introduced us what is CML. CML is not a club or society it is centre for students to learn various skills. If any student found any difficulty related to any subject or he/she wanted to learn something new they can go to cml and ask them to guide them. CML makes a course for the student to learn them their desired skill. It is absolutely free. Then I got to know about Swayam NPTEL portal. Swayam nptel is government portal which provides learners with different courses related to technical field. The student who did not go to premium institute like IITs/NITs can learn directly from the professors of iit/nit through nptel courses. I make my account on nptel and joined a course named <ins>**Programming with Generative AI</ins>**._
+
+##### Lecture by Dr. Arvind Dhingra
+
+**3:30pm - 4:30pm**
+
+_Sir is a director of STEP and incharge at TAC. I only remembered that we did some form of mental excercise in his session and nothing more and after that we headed home._
 
 
