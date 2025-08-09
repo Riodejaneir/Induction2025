@@ -201,6 +201,15 @@ _Mam explained the next topics of chapter DC circuits and we took notes of the c
 
 _After the class, I go to TCC seminar hall for ID card formation. The work is going very slowly, I appreciate if the process could speed up. After that I went to home._
 
+# Day 8
+
+## P2P Lecture [9:00am - 12:00noon]
+
+_First class was scheduled to be of chemistry but it got cancelled at the last moment and we study problem solving with C++ for straight 2hours although it was a fun session. I understand loops, if and else concept of C++ and wrote code of the loops also. In the meantime, we clear our doubts and talked to each other._
+
+## End of the class
+
+After the class dismissed, I went to sumbit the form to applied science department office but it was empty although it's the office timing. I waited for 45 minutes. After 45 minutes, a teacher came, I submitted my form and headed home.
 
 
 
