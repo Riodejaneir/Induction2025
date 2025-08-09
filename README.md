@@ -36,11 +36,28 @@ _Both test conducted very brilliantly by the senior year students. English test 
 
 _In the break, I ate my lunch and wandered around the college to see the sophisticated infrastructure of college and for some sightseeing._
 
+### Academic Portal 
+
 **1:10pm-1:45pm**
 
-_It was the time of the beginning of the event. A senior Student sang two song and it was marvellous._
+_It was the time of the beginning of the event. A senior Student sang two song and it was marvellous.Senior Student <ins>Ismeet</ins> sir and <ins>Taranpreet</ins> mam told us about the academic portal of GNDEC. They told us that our fees will be submitted online through academic portal only. Portal shows our exam result. It tells important notices related to our batch.It was a nice experience to learn from the seniors <ins>Ishmeet</ins> sir and <ins>Taranpreet</ins> mam._
 
-### Satya Scholarship Program (1:45pm-2:40pm)
+#### Satya Scholarship Program (1:45pm-2:40pm)
 
 _A special guest <ins>Mr. Manish</ins> tell us the application process of satya schlorship program
 . He told us that the schlorship is for students who did their 12th from Ludhiana district._
+
+##### Food role in our daily lives
+
+**2:40pm-3:40pm**
+
+_<ins>Dr.Arshdeep Singh</ins> gave us a brief lecture how food plays a pivotal role in shaping our body and mind. He told that eat fast fast food in moderation and give us a suggestion of consuming less sugar.He also answers some of our question in a very kind manner._
+
+
+###### GitHub 
+
+**3:40pm-4:20pm**
+
+_Senior told us how to make our account on GitHub and suggested that we make our report on induction program on GitHub platform because GitHub uses a simple language markdown which is quite easy to use and it serves as a beginning step in the life of coding._
+
+
