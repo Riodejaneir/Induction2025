@@ -60,4 +60,14 @@ _<ins>Dr.Arshdeep Singh</ins> gave us a brief lecture how food plays a pivotal r
 
 _Senior told us how to make our account on GitHub and suggested that we make our report on induction program on GitHub platform because GitHub uses a simple language markdown which is quite easy to use and it serves as a beginning step in the life of coding._
 
+# Day 3
 
+_**We had the third day of our Student Induction Program at Guru Nanak Dev Engineering College in Ludhiana. It was for us first-year students in Information Technology and Computer Science and Engineering. The program took place in the college auditorium. There were some good sessions that helped us learn about studies and good behaviour.**_
+
+_The main part of the day was the speech by the **Chief Guest**, <ins>**Sardar Gurcharan Singh Grewal</ins>**. He is a member of the <ins>**Shiromani Gurdwara Parbandhak Committee (SGPC)</ins>** and also from the <ins>**Nankana Sahib Education Trust</ins>**. His words made us feel motivated. He said we should keep our values strong and try hard to do well in our studies._
+
+_The day started with a session by <ins>**Dr. Jaswinder Singh</ins>**. He has got the <ins>**Siksharatan Award</ins>**. He showed us some experiments right there and taught us new ways to study. His way of talking was fun and we all took part. It made learning happy and I will not forget it soon._
+
+_After that, <ins>**Dr. Priyadarshini</ins>** gave the next session. She knows a lot about <ins>**Universal Human Values</ins>**. She talked about why good rules and values are important in engineering, school, and work. She helped us know that we need to care for others, be responsible, and be honest to have a good job and life._
+
+_It was a nice day. I learned a lot and feel better about starting college._
