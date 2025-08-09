@@ -71,3 +71,34 @@ _The day started with a session by <ins>**Dr. Jaswinder Singh</ins>**. He has go
 _After that, <ins>**Dr. Priyadarshini</ins>** gave the next session. She knows a lot about <ins>**Universal Human Values</ins>**. She talked about why good rules and values are important in engineering, school, and work. She helped us know that we need to care for others, be responsible, and be honest to have a good job and life._
 
 _It was a nice day. I learned a lot and feel better about starting college._
+
+# Day 4
+
+**•9:30am - 10:30am**
+
+_I have my first class at GNDEC in TCC seminar hall. The lecture was of chemistry.<ins>**Professor Rajvir Kaur</ins>** told us the syllabus of the subject. She empahises that we should focus on the practical application.It was a fun session._
+
+**•10:30am - 11:30am**
+
+_My second lecture was of BEEE subject. <ins>**Professor Harminder Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
+
+## Break
+
+**•11:30am - 12:30pm**
+
+_In the break I ate lunch and did my assignment of <ins>**Universal Human values</ins>**._
+
+**•12:30pm - 2:30pm**
+
+_We again get a wonderful chance of hearing from <ins>**Dr. Priyadarshini</ins>** Mam about <ins>**Universal Human Values<ins>**. This time I learn about how human beings get addicted to something._ 
+
+>Comparison is not a bad thing until or unless it's source is external world.
+
+### Session by Causmic Club
+
+**•2:30pm - 3:30pm**
+
+_Finally, we get to know about the different clubs present in the campus. Causmic club conduct various events throughout the year in the campus. If you are enthusiastic about any club, you can fill the form of club and join it._
+
+#Day 5
+
