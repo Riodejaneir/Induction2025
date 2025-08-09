@@ -118,7 +118,7 @@ _The second lecture was of maths.<ins>**Professor Rajbir Kaur Mam</ins>** took u
 
 **•11:30pm - 12:30pm**
 
-_My second lecture was of BEEE subject. <ins>**Professor Harminder Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
+_My second lecture was of BEEE subject. <ins>**Professor Mandeep Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
 
 # Day 6 
 
@@ -148,5 +148,67 @@ _First sir introduced us what is CML. CML is not a club or society it is centre 
 **3:30pm - 4:30pm**
 
 _Sir is a director of STEP and incharge at TAC. I only remembered that we did some form of mental excercise in his session and nothing more and after that we headed home._
+
+# Day 7
+
+## Morning Prayer Session(9:30am - 9:45am)
+
+_I recited shabad in auditorium._
+
+### Lecture by Dr. Parminder Singh(DEAN - Student Welfare)
+
+**•9:45am - 10:16am**
+
+_Sir emphasized that college is college is for personality development, skill development. He told us that goes on till the life ends. He told us that if we have interest in extra curricular activity we definitely should follow it. He told us that it is so unique to identify your own limitations and overcome yourself from these limitations in the four years of college._
+
+**10:16am - 10:54 am**
+
+_Mam Taranpreet ask feedback for induction program. She told hs about <ins>**Tang</ins>** website.The website comes under Department of Applied Sciences. In the mid of session <ins>**Harpreet Mam [HOD of applied science]</ins>** tell us to wear jeans and pants instead of lower or cafery.She emphasized we should dress as a professional as we are pursuing a professional degree._
+
+#### Lecture by Amit Kamra (Coordinator-DMC)
+
+**•10:54am - 11:46am**
+
+_Before <ins>**2019</ins>** the college does not have a specific presence on social media. In <ins>**2024</ins>**, sir made the digital marketing club. He told us that all the things we see on social media is a work of DMC club.He told us that DMC club increase our employability chances.When internet becomes cheap, companies thought of reaching to the customers with socila media and that is called digital marketing club.The club offers-_
+
+_**•Practical skill development.**_
+
+_**•Networking opportunities.**_
+
+_**•Heads on experience on real world marketing projects.**_
+
+##### Lecture by Dr. Randhir Singh(Associate Professor in applied science department with 19 years of experience)
+
+**•11:46am - 12:30pm**
+
+_Sir told us about the conduction of exams in college. He told us that that there is a line in the Constitution of India:_
+
+>Ignorance is not an excuse.
+
+_which means if you ignore the rules and regulations of the country it's not country's fault.Likewise if you ignore the examination rules of college it will be your own fault.Every student will be given an opportunity to give two mid semester exams.Exam datesheet will not change for anyone. Both exam are compulsory for every student._
+
+**•12:30pm-1:30pm**
+
+_In the break, I ate my lunch and wandered around the college as usual._
+
+###### BEEE Lecture by Professor Mandeep Kaur
+
+**•1:30pm - 2:30pm**
+
+_Mam explained the next topics of chapter DC circuits and we took notes of the chapter._
+
+**•2:30pm - 4:15pm**
+
+_After the class, I go to TCC seminar hall for ID card formation. The work is going very slowly, I appreciate if the process could speed up. After that I went to home._
+
+
+
+
+
+
+
+
+
+
 
 
