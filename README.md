@@ -120,3 +120,25 @@ _The second lecture was of maths.<ins>**Professor Rajbir Kaur Mam</ins>** took u
 
 _My second lecture was of BEEE subject. <ins>**Professor Harminder Kaur</ins>** give us a brief about syllabus. She explained basic concepts of DC circuits. I got everything crystal clear in my mind._
 
+# Day 6 
+
+## P2P Lecture [9:30am - 10:30am]
+
+_THIRD year senior student revise us the basics of C++ language. The funny thing was that there was not proper number of seats available for the student to sit so we have to go and take bench from another workshop. They gave us a homework of write a program of two different subjects and take the marks of the subjects from user and add them. I did the homework._
+
+### Lecture By Jaswant Singh Sir
+
+**•10:30am - 11:30am**
+
+_Sir told us that he did his Btech and Mtech in computer science and engineering from GNDEC. He loves to do machine learning. He oftenly used chatgpt. He asked us why we took ca branch. He explained us what is programming, what is logic in computer system etc. He told us that we should dress professinally because now we take admission in a professional course._
+
+**•11:30am - 12:30am**
+
+_In the break I ate lunch. I tried to sumit the form in order to get bonafide and fees structure for satya schlorship program but the sir who sat in applied science department told me that you have to submit the photocopy of adhaar card and fees slip with the form._
+
+
+#### CML lecture by Dr. Lakhvir Singh Khana
+
+**•12:30pm - 3:30pm**
+
+
